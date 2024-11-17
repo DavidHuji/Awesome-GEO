@@ -1,9 +1,10 @@
-# Awesome-GEO
-Awesome list for research on GEO (Generative Engine Optimization).
-
 <p align="center">
   <img width="1352" alt="Screen Shot 2024-11-18 at 0 50 11" src="https://github.com/user-attachments/assets/559a07af-f9c4-4503-9ad3-dca7e44d5545">
 </p>
+
+# Awesome-GEO
+Awesome list for research on GEO (Generative Engine Optimization).
+
 # Awesome-Layout-Generators
 Generative Engine Optimization (GEO), is a paradigm to aid content creators in improving their content visibility in generative engine responses through flexible optimization frameworks for optimizing and defining visibility metrics.
 
