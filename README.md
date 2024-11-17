@@ -13,3 +13,8 @@ This is a niche area, which is increasingly receiving attention from the communi
 ## 2024
 - GEO: Generative Engine Optimization [[Paper]](https://arxiv.org/pdf/2311.09735)
 - What Evidence Do Language Models Find Convincing? [[Paper]](https://arxiv.org/html/2402.11782v1)
+- CONFLICTBANK: A Benchmark for Evaluating Knowledge Conflicts in Large Language Models [[Paper]](https://arxiv.org/abs/2408.12076)
+- Adversarial Search Engine Optimization for Large Language Models [[Paper]](https://arxiv.org/abs/2406.18382)
+- Ranking Manipulation for Conversational Search Engines [[Paper]](https://arxiv.org/abs/2406.03589)
+- PERSISTENT PRE-TRAINING POISONING OF LLMS [[Paper]](https://arxiv.org/abs/2410.13722)
+
