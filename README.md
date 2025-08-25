@@ -13,11 +13,11 @@ This is a niche area, which is increasingly receiving attention from the communi
 ## 2025
 - DYNAMICS OF ADVERSARIAL ATTACKS ON LARGE  
   LANGUAGE MODEL‑BASED SEARCH ENGINES [[Paper]](https://arxiv.org/pdf/2501.00745)
-- White Hat Search Engine Optimization using Large Language Models [[Paper]](https://arxiv.org/abs/2502.07315) :contentReference[oaicite:0]{index=0}
-- PoisonArena: Uncovering Competing Poisoning Attacks in Retrieval‑Augmented Generation [[Paper]](https://arxiv.org/abs/2505.12574) :contentReference[oaicite:1]{index=1}
-- Beyond SEO: A Transformer‑Based Approach for Reinventing Web Content Optimisation [[Paper]](https://chatpaper.com/chatpaper/paper/158775) :contentReference[oaicite:2]{index=2}
-- NExT‑Search: Rebuilding User Feedback Ecosystem for Generative AI Search [[Paper]](https://arxiv.org/abs/2505.14680) :contentReference[oaicite:3]{index=3}
-- Role‑Augmented Intent‑Driven Generative Search Engine Optimization [[Paper]](https://arxiv.org/abs/2508.11158) :contentReference[oaicite:4]{index=4}
+- White Hat Search Engine Optimization using Large Language Models [[Paper]](https://arxiv.org/abs/2502.07315) 
+- PoisonArena: Uncovering Competing Poisoning Attacks in Retrieval‑Augmented Generation [[Paper]](https://arxiv.org/abs/2505.12574)
+- Beyond SEO: A Transformer‑Based Approach for Reinventing Web Content Optimisation [[Paper]](https://chatpaper.com/chatpaper/paper/158775)
+- NExT‑Search: Rebuilding User Feedback Ecosystem for Generative AI Search [[Paper]](https://arxiv.org/abs/2505.14680)
+- Role‑Augmented Intent‑Driven Generative Search Engine Optimization [[Paper]](https://arxiv.org/abs/2508.11158)
 
 ## 2024
 - GASLITEING THE RETRIEVAL: EXPLORING VULNERABILITIES IN DENSE EMBEDDING‑BASED SEARCH [[Paper]](https://arxiv.org/pdf/2412.20953)
