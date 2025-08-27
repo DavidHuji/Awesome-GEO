@@ -10,6 +10,9 @@ Generative Engine Optimization (GEO), is a paradigm to aid content creators in i
 
 This is a niche area, which is increasingly receiving attention from the community. This awesome‑listing is an attempt to bring together works in this space. This list is not complete and looking for your PRs to improve it. Thanks!
 
+# llms.txt Tools
+- **[LLMSDB](https://llmsdb.com)** - Directory of llms.txt files
+
 ## 2025
 - DYNAMICS OF ADVERSARIAL ATTACKS ON LARGE  
   LANGUAGE MODEL‑BASED SEARCH ENGINES [[Paper]](https://arxiv.org/pdf/2501.00745)
