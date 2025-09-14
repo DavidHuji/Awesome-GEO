@@ -18,6 +18,7 @@ This is a niche area, which is increasingly receiving attention from the communi
 - Beyond SEO: A Transformer‑Based Approach for Reinventing Web Content Optimisation [[Paper]](https://chatpaper.com/chatpaper/paper/158775)
 - NExT‑Search: Rebuilding User Feedback Ecosystem for Generative AI Search [[Paper]](https://arxiv.org/abs/2505.14680)
 - Role‑Augmented Intent‑Driven Generative Search Engine Optimization [[Paper]](https://arxiv.org/abs/2508.11158)
+- StealthRank: LLM Ranking Manipulation via Stealthy Prompt Optimization [[Paper]](https://arxiv.org/abs/2504.05804)
 
 ## 2024
 - GASLITEING THE RETRIEVAL: EXPLORING VULNERABILITIES IN DENSE EMBEDDING‑BASED SEARCH [[Paper]](https://arxiv.org/pdf/2412.20953)
@@ -27,3 +28,4 @@ This is a niche area, which is increasingly receiving attention from the communi
 - Adversarial Search Engine Optimization for Large Language Models [[Paper]](https://arxiv.org/abs/2406.18382)
 - Ranking Manipulation for Conversational Search Engines [[Paper]](https://arxiv.org/abs/2406.03589)
 - PERSISTENT PRE‑TRAINING POISONING OF LLMS [[Paper]](https://arxiv.org/abs/2410.13722)
+- Manipulating Large Language Models to Increase Product Visibility [[Paper]](https://arxiv.org/pdf/2404.07981)
