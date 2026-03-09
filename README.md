@@ -38,3 +38,7 @@ This is a niche area, which is increasingly receiving attention from the communi
 - Ranking Manipulation for Conversational Search Engines [[Paper]](https://arxiv.org/abs/2406.03589)
 - Persistent Pre‑Training Poisoning Of LLMs [[Paper]](https://arxiv.org/abs/2410.13722)
 - Manipulating Large Language Models to Increase Product Visibility [[Paper]](https://arxiv.org/pdf/2404.07981)
+
+## Tools & Services
+
+- **[GEOScore](https://geoscoreai.com)** – AI-powered scanner that checks how your website performs in AI search engines (ChatGPT, Perplexity, Gemini). Runs 11 technical checks including AI crawl access, structured data, llms.txt, content structure, and citation potential.
