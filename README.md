@@ -16,6 +16,7 @@ This is a niche area, which is increasingly receiving attention from the communi
 - IF-GEO: Conflict-Aware Instruction Fusion for Multi-Query Generative Engine Optimization [[Paper]](https://arxiv.org/abs/2601.13938)
 - Multimodal Generative Engine Optimization: Rank Manipulation for Vision–Language Model Rankers [[Paper]](https://arxiv.org/abs/2601.12263)
 - Navigating the Shift: A Comparative Analysis of Web Search and Generative AI Response Generation [[Paper]](https://arxiv.org/abs/2601.16858)
+- auto-geo: Open-Source CLI for Auditing AI-Citation Readiness and Measuring Citations Across Generative Engines [[Code]](https://github.com/shadowresearch/auto-geo)
 
 ## 2025
 
