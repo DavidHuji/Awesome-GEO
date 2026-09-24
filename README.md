@@ -29,6 +29,7 @@ This is a niche area, which is increasingly receiving attention from the communi
 - NExT‑Search: Rebuilding User Feedback Ecosystem for Generative AI Search [[Paper]](https://arxiv.org/abs/2505.14680)
 - Role‑Augmented Intent‑Driven Generative Search Engine Optimization [[Paper]](https://arxiv.org/abs/2508.11158)
 - StealthRank: LLM Ranking Manipulation via Stealthy Prompt Optimization [[Paper]](https://arxiv.org/abs/2504.05804)
+- E-GEO: Optimizing Content for Generative Engines [[Paper]](https://arxiv.org/abs/2511.20867) [[Code]](https://github.com/mverab/eGEOagents)
 
 ## 2024
 
