@@ -17,6 +17,7 @@ This is a niche area, which is increasingly receiving attention from the communi
 - Multimodal Generative Engine Optimization: Rank Manipulation for Vision–Language Model Rankers [[Paper]](https://arxiv.org/abs/2601.12263)
 - Navigating the Shift: A Comparative Analysis of Web Search and Generative AI Response Generation [[Paper]](https://arxiv.org/abs/2601.16858)
 - Source Composition of AI Answers: An Analysis of 167,551 Citations Across Generative Engines (Rankfor.AI, 2026) [[Paper]](https://doi.org/10.5281/zenodo.20829524)
+- Which Websites Does ChatGPT Read When Your Customer Looks for a Supplier? A 30-Day Panel of 13,108 AI Answers to 72 German B2B Buyer Questions (The B2B Answer, 2026) [[Paper]](https://theb2banswer.de/en/studies/ai-sources-german-industry-2026/)
 
 - Multi-Source Corroboration in GEO: Cross-Platform Deployment Strategy for AI Citation Optimization [[Resource]](https://github.com/shanhai-geo/geo-knowledge-base/blob/main/docs/strategies/multi-source-corroboration.md) — Empirical study showing 320% citation rate improvement when consistent information appears across 5-10 independent high-authority sources
 ## 2025
