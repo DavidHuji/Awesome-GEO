@@ -10,16 +10,13 @@ Generative Engine Optimization (GEO), is a paradigm to aid content creators in i
 
 This is a niche area, which is increasingly receiving attention from the community. This awesome‑listing is an attempt to bring together works in this space. This list is not complete and looking for your PRs to improve it. Thanks!
 
-
 ## 2026
 
 - IF-GEO: Conflict-Aware Instruction Fusion for Multi-Query Generative Engine Optimization [[Paper]](https://arxiv.org/abs/2601.13938)
 - Multimodal Generative Engine Optimization: Rank Manipulation for Vision–Language Model Rankers [[Paper]](https://arxiv.org/abs/2601.12263)
 - Navigating the Shift: A Comparative Analysis of Web Search and Generative AI Response Generation [[Paper]](https://arxiv.org/abs/2601.16858)
-- Source Composition of AI Answers: An Analysis of 167,551 Citations Across Generative Engines (Rankfor.AI, 2026) [[Paper]](https://doi.org/10.5281/zenodo.20829524)
 - One Polluted Page Is Enough: Evaluating Web Content Pollution in LLM Recommenders, EMNLP 2026 Findings, [[Paper]](https://arxiv.org/abs/2606.13610) [[Code]](https://github.com/leoluolol/forge-benchmark) [[Dataset]](https://huggingface.co/datasets/leoluo25933/forge-benchmark)
 
-- Multi-Source Corroboration in GEO: Cross-Platform Deployment Strategy for AI Citation Optimization [[Resource]](https://github.com/shanhai-geo/geo-knowledge-base/blob/main/docs/strategies/multi-source-corroboration.md) — Empirical study showing 320% citation rate improvement when consistent information appears across 5-10 independent high-authority sources
 ## 2025
 
 - C-SEO Bench: Does Conversational SEO Work?, NeurIPS D&B 2025, [[Paper]](https://arxiv.org/abs/2506.11097) [[Code]](https://github.com/parameterlab/c-seo-bench) [[Dataset]](https://huggingface.co/datasets/parameterlab/c-seo-bench)
@@ -45,11 +42,5 @@ This is a niche area, which is increasingly receiving attention from the communi
 
 ## Open-Source Resources
 
-- AI Citation Evidence Validator — Open-source, client-side validator for GEO/AEO observation records that checks evidence completeness, citation-field consistency, timestamps, and duplicate run keys. [[Tool]](https://corankai.github.io/ai-citation-evidence-validator/) [[Source]](https://github.com/corankai/ai-citation-evidence-validator) — Built by [Corank](https://corank.ai/).
-- GEO Knowledge Base — Comprehensive open-source GEO reference with five-layer architecture, methodology documentation, and case studies [[GitHub]](https://github.com/shanhai-geo/geo-knowledge-base)
-- GEO Open Protocol — Open standard for brand AI visibility measurement including Brand Visibility Index (BVI) [[Website]](https://shanhai-geo.github.io/geo-protocol/)
-- AI Answer Check — Single-file MIT Python CLI that asks a generative engine the same question about a business N times and reports how often the engine agreed with itself, so a claim about what an AI "says" can be separated from run-to-run variance. No signup and no dependencies; --direct runs entirely on your own API credentials. [[Tool]](https://ai-fact-check-psi.vercel.app/check) [[Source]](https://github.com/FoundagentTest/ai-answer-check) — Built by [Assay](https://ai-fact-check-psi.vercel.app/).
-
-- AI Search Citation Benchmark for RAG vs Fine-Tuning — Reproducible Chinese-language dataset with run-level displayed sources from Qwen, Kimi, and Gemini plus strict unbranded Baidu snapshots; includes JSON/CSV downloads, hashes, and explicit zero-result retention. [[Dataset]](https://course.dragonai.tech/research/ai-search-rag-finetuning-citations-2026-07)
 - Elmo — Open-source Profound alternative that tracks how ChatGPT, Claude, Perplexity, Gemini and Google AI Overviews mention and cite a brand, available self-hosted or as a managed cloud service. [[GitHub]](https://github.com/elmohq/elmo)
 - NotFair GEO Optimizer — Open-source (MIT) agent skill for Claude Code, Codex, and other compatible coding agents that audits, rewrites, or plans content for citation in ChatGPT, Claude, Perplexity, Gemini, and Google AI Overviews. Scores evidence density, structure and position, authority signals, and AI crawlability, builds on the methods from the GEO paper (arXiv:2311.09735), and requires real, cited sources instead of fabricated statistics or quotes. [[Source]](https://github.com/nowork-studio/notfair-plugin/tree/main/seo/geo-optimizer) — Built by [NotFair](https://notfair.co).
