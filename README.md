@@ -16,6 +16,7 @@ This is a niche area, which is increasingly receiving attention from the communi
 - Multimodal Generative Engine Optimization: Rank Manipulation for Vision–Language Model Rankers [[Paper]](https://arxiv.org/abs/2601.12263)
 - Navigating the Shift: A Comparative Analysis of Web Search and Generative AI Response Generation [[Paper]](https://arxiv.org/abs/2601.16858)
 - One Polluted Page Is Enough: Evaluating Web Content Pollution in LLM Recommenders, EMNLP 2026 Findings, [[Paper]](https://arxiv.org/abs/2606.13610) [[Code]](https://github.com/leoluolol/forge-benchmark) [[Dataset]](https://huggingface.co/datasets/leoluo25933/forge-benchmark)
+- The synthesised consideration set: brand inclusion and concentration in large language model recommendations across five industries and three systems, Journal of Marketing Analytics 2026, [[Paper]](https://doi.org/10.1057/s41270-026-00562-3) [[Preprint]](https://arxiv.org/abs/2606.23057) [[Dataset]](https://doi.org/10.5281/zenodo.20788141)
 
 ## 2025
 
